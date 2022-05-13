@@ -23,6 +23,7 @@ The syntax I changed in the CSS file were :
 
 
 
+
 ## Link to Deployed Application:
 
 https://chrisjackson1.github.io/Refractor-SEO-HW/
